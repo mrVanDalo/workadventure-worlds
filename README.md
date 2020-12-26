@@ -1,4 +1,1 @@
-# world-map-starterkit
-
-This repositor is intended to give you an overview over the features in the world as well as a good starting point for creating your own maps! Feel free to use and change them!
-
+[world](https://test.visit.at.wa-test.rc3.cccv.de/_/global/git.ingolf-wagner.de/palo/world-home/raw/master/medium.json)
