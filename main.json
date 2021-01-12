@@ -122,7 +122,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/somafm.com\/groovesalad256.pls"
+                 "value":"http:\/\/lassul.us:8000\/radio.ogg"
                 }],
          "type":"tilelayer",
          "visible":true,
