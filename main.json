@@ -122,7 +122,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/mp3\/groovesalad256.pls"
+                 "value":"mp3\/groovesalad256.pls"
                 }],
          "type":"tilelayer",
          "visible":true,
